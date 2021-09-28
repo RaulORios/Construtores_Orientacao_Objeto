@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores_Orientacao_Objeto", "Construtores_Orientacao_Objeto\Construtores_Orientacao_Objeto.csproj", "{E8AC6F40-D8E1-4DAB-9444-3AA3D1DA829F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8AC6F40-D8E1-4DAB-9444-3AA3D1DA829F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AC6F40-D8E1-4DAB-9444-3AA3D1DA829F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AC6F40-D8E1-4DAB-9444-3AA3D1DA829F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AC6F40-D8E1-4DAB-9444-3AA3D1DA829F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F6E1FA-E155-49B3-A783-BC89B5DDD1FD}
+	EndGlobalSection
+EndGlobal
